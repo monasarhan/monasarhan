@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @monasarhan
 - I'm pharmacist
-- 👀 I’m interested in ..health informatic,bioinformatic
+- I'm a student at European Campus Rottal Inn studying Health Informatics
+  👀 I’m interested in ..health informatic,bioinformatic
 - generally in coding.
 - 🌱 I’m currently learning .health informatic..
 - 💞️ I’m looking to collaborate on ...
